@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I debug more than I code.
 
 <!-- bottom image -->
-<p align="center" style="margin:0; padding:0;>
+<p align="center" style="margin:0; padding:0";>
   <img src="https://raw.githubusercontent.com/sakshi22sk/sakshi22sk/main/bottom.svg" width="100%" style="margin:0; padding:0;" />
 </p>
 
