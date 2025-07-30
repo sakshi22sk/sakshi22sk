@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center" style="margin:0; padding:0;">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/sakshi-banner.svg" width="100%" style="margin:0; padding:0;" />
+</p>
 
 <!--
 **sakshi22sk/sakshi22sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
