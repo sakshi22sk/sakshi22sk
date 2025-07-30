@@ -1,4 +1,4 @@
-<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="2000" height="500" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
   <style>
     .float1 { animation: float1 4s ease-in-out infinite; }
     .float2 { animation: float2 5s ease-in-out infinite; }
