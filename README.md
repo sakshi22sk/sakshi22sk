@@ -13,10 +13,20 @@
 - 🤔 I’m looking for help with advanced LLM models 
 - ⚡ Fun fact: I debug more than I code.
 
+<p> Let's connect ☕</p>
+<p align="center">
+	<a href="https://github.com/sakshi22sk"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sakshi-kumari-002328287/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+    <a href="https://leetcode.com/u/sakshi22__sk/"><img src="https://img.icons8.com/bubbles/50/ff8c00/leetcode.png" alt="LeetCode Orange"/>
+    </a>
+</p
+
 <!-- bottom image -->
 <p align="center" style="margin:0; padding:0";>
   <img src="https://raw.githubusercontent.com/sakshi22sk/sakshi22sk/main/bottom.svg" width="100%" style="margin:0; padding:0;" />
 </p>
+
 
 
 
