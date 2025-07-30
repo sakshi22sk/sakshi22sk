@@ -18,7 +18,7 @@
 	<a href="https://github.com/sakshi22sk"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sakshi-kumari-002328287/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-    <a href="https://leetcode.com/u/sakshi22__sk/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2970357.png?f=webp&w=256"/>
+    <a href="https://leetcode.com/u/sakshi22__sk/"><img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="codechef"/></a>
     </a>
 </p
 
