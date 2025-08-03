@@ -12,7 +12,7 @@
 -  I’m currently learning TensorFlow, scikit-learn, NumPy, and Pandas.
 - 🤔 I’m looking for help with advanced LLM models 
 - ⚡ Fun fact: I debug more than I code.
-
+<br>
 <p> Let's connect ☕</p>
 <p align="center">
 	<a href="https://github.com/sakshi22sk"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -26,7 +26,10 @@
 <p align="center" style="margin:0; padding:0";>
   <img src="https://raw.githubusercontent.com/sakshi22sk/sakshi22sk/main/bottom.svg" width="100%" style="margin:0; padding:0;" />
 </p>
-
-
-
-
+<hr>
+<!--snake game-->
+<div align="center">
+  <img src="https://github.com/sakshi22sk/sakshi22sk/blob/output/github-snake-dark.svg" />
+</div>
+<br>
+<div align="center">  --- Happy Coding 💻! --- </div>
