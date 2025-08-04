@@ -5,7 +5,7 @@
 
 
 <!--
-**sakshi22sk/sakshi22sk*.* is a ✨ _s,pecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sakshi22sk/sakshi22sk*.* is ,a ✨ _s,pecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - ✨ I’m currently working on amazing projects 
