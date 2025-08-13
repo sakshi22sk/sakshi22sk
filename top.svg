@@ -1,0 +1,83 @@
+<svg width="100%" height="500" viewBox="0 0 1280 500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .float1 { animation: float1 4s ease-in-out infinite; }
+    .float2 { animation: float2 5s ease-in-out infinite; }
+    .float3 { animation: float3 6s ease-in-out infinite alternate; }
+
+    @keyframes float1 {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-8px); }
+    }
+    @keyframes float2 {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-12px); }
+    }
+    @keyframes float3 {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2e003e" />
+      <stop offset="100%" stop-color="#6a0dad" />
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blurred" />
+      <feMerge>
+        <feMergeNode in="blurred" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#grad1)" />
+
+  <!-- Glitter sparkles -->
+  <circle cx="100" cy="50" r="1.5" fill="white" opacity="0.4" />
+  <circle cx="300" cy="90" r="1.2" fill="white" opacity="0.5" />
+  <circle cx="500" cy="60" r="1.8" fill="white" opacity="0.4" />
+  <circle cx="700" cy="80" r="1.3" fill="white" opacity="0.5" />
+  <circle cx="900" cy="100" r="1.7" fill="white" opacity="0.4" />
+  <circle cx="150" cy="200" r="1.4" fill="white" opacity="0.5" />
+  <circle cx="400" cy="250" r="1.6" fill="white" opacity="0.5" />
+  <circle cx="650" cy="270" r="1.2" fill="white" opacity="0.5" />
+  <circle cx="850" cy="300" r="1.5" fill="white" opacity="0.5" />
+
+  <!-- Floating Emojis -->
+  <text x="100" y="90" font-size="24" class="float1">💜</text>
+  <text x="240" y="300" font-size="26" class="float2">🌟</text>
+  <text x="780" y="280" font-size="24" class="float3">🦋</text>
+  <text x="950" y="150" font-size="24" class="float1">💡</text>
+  <text x="1150" y="380" font-size="26" class="float2">👩‍💻</text>
+
+  <!-- Centered Name Text -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="64" font-family="Segoe Script, Brush Script MT, cursive"
+        fill="white" filter="url(#glow)">
+    Sakshi Kumari
+  </text>
+
+  <!-- Ice Cream Drip (scaled for width 1280) -->
+  <path d="M0 400 Q 30 430 60 400 Q 90 370 120 400 Q 150 430 180 400 Q 210 370 240 400 
+           Q 270 430 300 400 Q 330 370 360 400 Q 390 430 420 400 Q 450 370 480 400 
+           Q 510 430 540 400 Q 570 370 600 400 Q 630 430 660 400 Q 690 370 720 400 
+           Q 750 430 780 400 Q 810 370 840 400 Q 870 430 900 400 Q 930 370 960 400 
+           Q 990 430 1020 400 Q 1050 370 1080 400 Q 1110 430 1140 400 Q 1170 370 1200 400 
+           Q 1230 430 1260 400 Q 1280 370 1300 400 L1300 500 L0 500 Z"
+        fill="#ffffff" opacity="0.12" />
+
+  <!-- Pink-White Flower (bottom right) -->
+  <g transform="translate(1200, 400)">
+    <circle r="14" fill="pink" />
+    <circle r="7" fill="white" />
+    <circle cx="12" cy="0" r="7" fill="white" />
+    <circle cx="-12" cy="0" r="7" fill="white" />
+    <circle cy="12" cx="0" r="7" fill="white" />
+    <circle cy="-12" cx="0" r="7" fill="white" />
+  </g>
+</svg>
+
