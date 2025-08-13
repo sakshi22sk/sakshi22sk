@@ -29,7 +29,7 @@
 <p><hr></p>
 <!-- The snake work -->
 <p align="center">
-  <img src="https://github.com/sakshi22sk/sakshi22sk/main/github-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github.com/sakshi22sk/sakshi22sk/blob/main/snake.gif" alt="snake animation"/>
 </p>
 <br>
 <p align="center"> --- Happy Coding !🤝 ---</p>
