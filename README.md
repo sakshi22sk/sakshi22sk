@@ -27,10 +27,12 @@
   <img src="https://raw.githubusercontent.com/sakshi22sk/sakshi22sk/main/bottom.svg" width="100%" style="margin:0; padding:0;" />
 </p>
 <p><hr></p>
+
 <!-- The snake work -->
-<p align="center">
-  <img src="https://github.com/sakshi22sk/sakshi22sk/blob/main/snake.gif" alt="snake animation"/>
-</p>
+
+  ![snake gif](https://github.com/sakshi22sk/sakshi22sk/blob/output/github-snake-dark.svg)
+ 
+
 <br>
 <p align="center"> --- Happy Coding !🤝 ---</p>
 
