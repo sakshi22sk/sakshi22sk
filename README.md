@@ -9,7 +9,7 @@
 -->
 
 - ✨ I’m currently working on amazing projects 
--  I’m currently learning TensorFlow, scikit-learn, NumPy, and Pandas.
+- 💻 I’m currently learning TensorFlow, scikit-learn, NumPy, and Pandas.
 - 🤔 I’m looking for help with advanced LLM models 
 - ⚡ Fun fact: I debug more than I code.
 
