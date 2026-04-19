@@ -8,7 +8,7 @@
 **sakshi22sk/sakshi22sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- ✨ I’m currently working on amazing projects 
+- ✨ I’m currently working on amazing projects (My portfolio- <a href="https://portfolio-sakshi22-3b3824.netlify.app/">PORTFOLIO</a>)
 - 💻 I’m currently learning TensorFlow, scikit-learn, NumPy, and Pandas.
 - 🤔 I’m looking for help with advanced LLM models 
 - ⚡ Fun fact: I debug more than I code.
